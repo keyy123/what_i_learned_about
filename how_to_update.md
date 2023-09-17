@@ -16,3 +16,6 @@ To create a virtual notebook that allows me to practice a skill as many times as
 4. Set a schedule to revisit drills from time to time so you don't get too rusty. 
 
 5. Have some fun. Life is too short to be mad that you forgot an algo. If you are feeling upset or tired go to sleep, go outside, call a friend or family member and talk, make weekend plans, go out to the movies but just relax and have some fun.
+
+
+NOTE: Change of plans, I do not want to handle the nightmare of subdirectories in Git so I will just add link to repos but the the notes above still apply to those individual repos that will be aggregated in this Github branch
